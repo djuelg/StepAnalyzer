@@ -1,0 +1,1 @@
+e:\dokumente\visual studio 2017\Projects\StepAnalyzer\StepAnalyzer\StepAnalyzer.csproj;x86
